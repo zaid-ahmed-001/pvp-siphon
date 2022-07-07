@@ -12,4 +12,4 @@ Baseevents (https://github.com/citizenfx/cfx-server-data/tree/master/resources/%
 3. Add 'ensure pvp-siphon' in your server.cfg
 
 ## Discord
-<h3 align='center'>For more support or to see more of our resources you can join our <a href='https://discord.gg/h78wJpSE6m%27%3Ediscord</a></h3>
+<h3 align='center'>For more support or to see more of our resources you can join our <a href='https://discord.gg/h78wJpSE6m%27%3Ediscord'</a></h3>
