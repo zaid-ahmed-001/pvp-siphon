@@ -6,7 +6,8 @@ lua54 'yes'
 dependencies 'baseevents' -- https://github.com/citizenfx/cfx-server-data/tree/master/resources/%5Bsystem%5D/baseevents
 
 client_scripts {
-    'config.lua',
+    --'@PolyZone/client.lua', --Uncomment this if u using Polyzones
+    'config.lua', 
     'client.lua'
 }
 
